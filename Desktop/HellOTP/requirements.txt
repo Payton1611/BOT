@@ -1,0 +1,6 @@
+python-telegram-bot
+telegram
+twilio
+os
+pymongo
+pymongo[srv]
